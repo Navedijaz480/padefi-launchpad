@@ -1,0 +1,11 @@
+padefi smat contract :	
+https://testnet.bscscan.com/address/0xe50188a2c25cab15600e6a63e60692c2c8a010b2 #readProxyContract 	proxy smart contract
+https://testnet.bscscan.com/address/0xaf15d1f3df92da53f04590e19f09b760bab05ca7#code 	StandardTokenFactory:
+https://testnet.bscscan.com/address/0xec34e67ed97c71f7df26b9c8ac6c075a11378632#code 	presale factory contract 
+https://testnet.bscscan.com/address/0xbce9186d9cd1aa03e02438a3d750fe9e162ce816  	prresale contract
+https://testnet.bscscan.com/address/0x1adbf739ebf2a3cc82582acb4a3e07834b3953e9	TokensVesting : 
+	
+	
+updated contract : 	
+https://testnet.bscscan.com/address/0x6893d69f765bd29d14c9183a29213017e31bb53b#writeContract  	presale factory contract 
+https://testnet.bscscan.com/address/0xabe9cf527c9e25484c4cc13bcb416a055c2257a6#code 	PresaleFactoryVesting
